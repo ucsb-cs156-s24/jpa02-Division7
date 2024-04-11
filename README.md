@@ -1,10 +1,10 @@
 # jpa02-Division7
 
-Repo: https://ucsb-cs156-s24/jpa02-Division7
+Repo: https://github.com/ucsb-cs156-s24/jpa02-Division7
 
 
 
-Deployed at: https://jpa02-division7.dokku-12.cs.ucsb.edu
+Deployed at: https://jpa02-division7.dokku-12.cs.ucsb.edu/
 
 
 # About this repo
